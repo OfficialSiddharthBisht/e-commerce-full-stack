@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-e-commerce-app",
+  "version": "1.0.0",
+  "description": "MERN stack e-commerce application with admin dasboard",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialSiddharthBisht/e-commerce-full-stack.git"
+  },
+  "keywords": [
+    "mern-stack-ecommerce",
+    "full-stack-ecommerce"
+  ],
+  "author": "Siddharth Bisht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OfficialSiddharthBisht/e-commerce-full-stack/issues"
+  },
+  "homepage": "https://github.com/OfficialSiddharthBisht/e-commerce-full-stack#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
